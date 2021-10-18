@@ -26,6 +26,7 @@ The input data has 43 features and 25,724 samples.
 •	Attempted to increase the accuracy the number of neurons, layers and tried a different activation function (tanh), however none of these seemed to significantly improve the models performance.
 
 # Summary
+
 Overall, the deep learning neural network model did not perform the 75% target but close. As a potential improvement we could adapt a supervised manchinie learning model,  such as the Random Forest Classifier be used to combine a multitude of decision tress to generate a classified output. In that case, we could be able to evaluate its performance against the deep learning model. 
 
 
